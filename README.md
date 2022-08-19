@@ -2,7 +2,7 @@
 - 👀 I’m interested in IoT, Security, Cloud
 - 🌱 I’m currently learning dotnetcore
 - 💞️ I’m looking to collaborate on Applications for the Pinephone
-- 📫 How to reach me : Hmmmm, i've got to think about that
+- 📫 How to reach me : foojar@protonmail.com
 
 <!---
 sfaisalj/sfaisalj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
